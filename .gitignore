@@ -1,0 +1,15 @@
+# Build output
+target/
+out/
+production/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
