@@ -1,6 +1,6 @@
 # Minesweeper (JavaFX)
 
-> Minesweeper desktop game with three difficulty levels and an in-game guide. Java, JavaFX, Maven.
+> Minesweeper desktop game with three difficulty levels and an in-game guide.
 
 ## Run
 
